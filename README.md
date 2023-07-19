@@ -6,6 +6,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+![Alt Text](C:\Users\dewan\OneDrive\Desktop\landingpage\landing-page\src\components\t1.jpg)
+![Alt Text](C:\Users\dewan\OneDrive\Desktop\landingpage\landing-page\src\components\t2.jpg)
+![Alt Text](C:\Users\dewan\OneDrive\Desktop\landingpage\landing-page\src\components\t3.jpg)
+
 ### `npm start`
 
 Runs the app in the development mode.\
